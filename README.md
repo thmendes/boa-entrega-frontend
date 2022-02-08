@@ -1,4 +1,4 @@
-# boa-compra-frontend
+# boa-entrega-frontend
 
 ## Project setup
 ```
