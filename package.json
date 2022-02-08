@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "aws s3 sync ./dist s3://boa-entrega-gsl-frontend --profile thmendes"
+    "deploy": "aws s3 sync ./dist s3://boa-entrega-gsl-frontend --profile awsprofile"
   },
   "dependencies": {
     "axios": "^0.24.0",
